@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "DUwGZBmoP7xSRnhYBcvos/w7ksL8qweQPEBPHp7kcfk=",
+  "Hash": "Ve96wGE4HS88rxIcKfB2xnK6VaaRSXoE8ip4r/1Nv1k=",
   "Source": "WebApplication1",
   "BasePath": "_content/WebApplication1",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "WebApplication1\\wwwroot",
       "Source": "WebApplication1",
-      "ContentRoot": "D:\\Praca\\_WORK\\VSProjects\\WebApplication1\\WebApplication1\\wwwroot\\",
+      "ContentRoot": "D:\\Praca\\_WORK\\_src\\ blazejzakowski\\devexpress_01\\WebApplication1\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
       "Pattern": "**"
     }

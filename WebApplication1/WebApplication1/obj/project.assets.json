@@ -4528,11 +4528,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Praca\\_WORK\\VSProjects\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "D:\\Praca\\_WORK\\_src\\ blazejzakowski\\devexpress_01\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
       "projectName": "WebApplication1",
-      "projectPath": "D:\\Praca\\_WORK\\VSProjects\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectPath": "D:\\Praca\\_WORK\\_src\\ blazejzakowski\\devexpress_01\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "D:\\Praca\\_WORK\\VSProjects\\WebApplication1\\WebApplication1\\obj\\",
+      "outputPath": "D:\\Praca\\_WORK\\_src\\ blazejzakowski\\devexpress_01\\WebApplication1\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",

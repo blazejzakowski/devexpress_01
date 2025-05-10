@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jIZzdy+S4cad1npGOyG4h3M2291ltMVZyf62SadwfvCClwZ2CFp74l9grRrdz+Hhd4LQ3pLnAb7DcOwQBc092A==",
+  "dgSpecHash": "+mcIyglnCMsXysbakznE0d6hDMLUxR2YzN+WNuPXHz6Bx3hdnTgwQXp5pRgqjD1k6COksVD9qmzeOL9fH/IOwA==",
   "success": true,
-  "projectFilePath": "D:\\Praca\\_WORK\\VSProjects\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+  "projectFilePath": "D:\\Praca\\_WORK\\_src\\ blazejzakowski\\devexpress_01\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lenovo\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
